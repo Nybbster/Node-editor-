@@ -1,10 +1,11 @@
 # Get started 
-
+<br>
 1 install requirements
-´´´bash
+```bash
 pip install -r requirements.txt
-´´´
+```
+<br>
 2 Run pyside.py
-´´´bash
+```bash
 python pyside.py
-´´´
+```
